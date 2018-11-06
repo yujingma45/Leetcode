@@ -14,6 +14,8 @@
 
 - 11-05 added 2 solution for [205] Isomorphic strings -- best 36ms
 
+- 11-05 added 2 solution for [290] Word Pattern  -- best 36ms
+
 - 11-05 added 2 solution for [204] countPrime - best 123ms
 
 ### Need pay attation:
