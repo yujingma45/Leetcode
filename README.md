@@ -18,5 +18,17 @@
 
 - 11-05 added 2 solution for [204] countPrime - best 123ms
 
+- 11-06 added 4 solution for [349] Intersection of two arrays - best 36ms
+
+- 11-06 added 3 solution for [350] Intersection of two arrays 2 - best 56ms 
+
+- 11-07 added 5 solution for [389] findTheDifference - best 36ms
+
+- 11-07 added 3 solution for [409] longest palindrome - best 36ms 
+
 ### Need pay attation:
 - [204] countPrime: Sieve of Eratosthenes, range &Steps, sqrt(n)
+
+- Bitwise operator
+- collections module  https://docs.python.org/2/library/collections.html
+- bool()
