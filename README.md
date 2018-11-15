@@ -26,9 +26,34 @@
 
 - 11-07 added 3 solution for [409] longest palindrome - best 36ms 
 
+- 11-14 added 3 solution for [387] find first unique character best-68ms
+
+- 11-14 added 4 solution for [438] Find Anagrams best 156ms
+
+- 11-14 added 2 solution for [447] Number of Boomeranges best 2020ms
+
+- 11-14 added 3 solution for [500] keyboard row best 44ms
+
+- 11-14 added 3 solution for [575] Distribute candies best 184ms
+
+- 11-14 added 2 solution for [594] longest harmonious subsequence best 96ms
+
+- 11-14 added 3 solution for [599] Minimum Index Sum of Two Lists best 212ms
+
+- 11-14 added 1 solution for [645] Set Mismatch best 212ms
+
+
+
+
+
+
+
+
+
 ### Need pay attation:
 - [204] countPrime: Sieve of Eratosthenes, range &Steps, sqrt(n)
-
+- [438] Find Anagrams
+- [447] Number of Boomeranges 
 - Bitwise operator
 - collections module  https://docs.python.org/2/library/collections.html
 - bool()
