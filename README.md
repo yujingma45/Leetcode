@@ -42,10 +42,13 @@
 
 - 11-14 added 1 solution for [645] Set Mismatch best 212ms
 
+- 11-15 added 2 solution for [748] Shortest Completing Word best 248ms
 
+- 11-15 added 3 solution for [811] Subdomain Visit Count best 68ms
 
+- 11-15 added 3 solution for [771] Jewels and Stones best 40ms
 
-
+- 11-15 added 3 solution for [884] Uncommon Words from Two Sentences 36ms
 
 
 
